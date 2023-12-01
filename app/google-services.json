@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "729095169524",
+    "project_id": "dealsapp-33e08",
+    "storage_bucket": "dealsapp-33e08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729095169524:android:80c5b7d546b7cf883745a1",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEpzg6lGoOm4NLcsyGOeHTeR5UP9FDzgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729095169524:android:dfa60b62bf7052d03745a1",
+        "android_client_info": {
+          "package_name": "com.example.olineshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEpzg6lGoOm4NLcsyGOeHTeR5UP9FDzgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
